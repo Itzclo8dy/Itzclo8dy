@@ -59,12 +59,12 @@ _**(aka stuff I use)**_
 
 <br>
 
-<!-- Main Stats & Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzclo8dy&show_icons=true&theme=catppuccin&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+<!-- Main Stats & Top Languages (using GitHub Stats Extended) -->
+<a href="https://github-stats-extended.vercel.app">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Itzclo8dy&show_icons=true&theme=catppuccin&rank_icon=github&hide_border=true" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzclo8dy&layout=compact&theme=catppuccin&hide_border=true" alt="Top Languages" />
+<a href="https://github-stats-extended.vercel.app">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Itzclo8dy&layout=compact&theme=catppuccin&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>

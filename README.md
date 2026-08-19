@@ -1,6 +1,6 @@
 haiii!!!! :3 I AM ITZCLO8DY >.<
 <br>
-<img src="https://media.tenor.com/tHqP71fP3k4AAAAC/miku-plush.gif" width="120px" alt="Miku Plush">
+<img src="./miku-hi.gif" width="120px" alt="Miku Wave">
 <br>
 This is my official GitHub profile!
 

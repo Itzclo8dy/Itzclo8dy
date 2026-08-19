@@ -1,120 +1,80 @@
+haiii!!!! :3 I AM ITZCLO8DY >.<
+<br>
+<img src="https://media.tenor.com/tHqP71fP3k4AAAAC/miku-plush.gif" width="120px" alt="Miku Plush">
+<br>
+This is my official GitHub profile!
+
+---
+
+### 👤 Info
+
+<details>
+<summary><strong>📘 About Me</strong></summary>
+<br>
+<p>
+  I'm a 13-year-old CS student, Linux enthusiast, and certified Vocaloid/Project SEKAI enjoyer! 🎵 My days usually consist of ricing desktop environments, writing custom scripts in Python/Bash, and trying not to break my OS. Huge shoutout to my amazing mom and dad for letting me turn my room into a full tech laboratory—they're the real MVP support system!
+</p>
+<p>
+  Despite spending hours tweaking dotfiles, I somehow maintain great grades at school (turns out CS logic helps with studies!). When I'm not staring at a terminal, I'm usually hanging out with my online and IRL friends, or playing Project SEKAI, Call of Duty, Celeste, Minecraft, and Blox Fruits.
+</p>
+
+  **💼 Focus:** CS Student, Linux Ricing & Scripting  
+  🕒 **Timezone:** IST (UTC+5:30)  
+  🌎 **Based in:** India  
+
+</details>
+
+**📧 Where to find me**
+
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Itzclo8dy) [![Discord](https://img.shields.io/badge/Itzclo9dy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cloudsmp6@gmail.com)
+
+---
+
+## 💫 Tech Stack
+
+_**(aka stuff I use)**_
+<br>
+<br>
+![Skills](https://skillicons.dev/icons?i=py,bash,css,git,github,githubactions,gitlab,maven,gradle,cloudflare,linux,arch,debian,windows,vscode&perline=15)
+
+<details>
+<summary><strong>📱 Extra Favorites</strong></summary>
+
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-4E9A06?style=for-the-badge&logo=fishshell&logoColor=white) ![LazyVim](https://img.shields.io/badge/LazyVim-302D41?style=for-the-badge&logo=lazyvim&logoColor=89B4FA) ![Helium](https://img.shields.io/badge/Helium-008080?style=for-the-badge&logo=heliumbrowser&logoColor=white) ![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
+![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![hack.chat](https://img.shields.io/badge/hack.chat-000000?style=for-the-badge&logo=terminal&logoColor=00FF00) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<br>
+![MEGA](https://img.shields.io/badge/MEGA-D9272E?style=for-the-badge&logo=mega&logoColor=white) ![2FAS](https://img.shields.io/badge/2fas-EC1C24?style=for-the-badge&logo=2fas&logoColor=white) ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
+</details>
+
+---
+
+## 📈 Statistics
+
 <div align="center">
 
-# Haiiii~ :3
+<!-- Trophies -->
+![](https://github-profile-trophy.vercel.app/?username=Itzclo8dy&theme=catppuccin&no-frame=true&no-bg=true&margin-w=15)
 
-<img src="https://media.gifdb.com/happy-miku-clapping-iugkdlotxwnra8se.gif" width="300">
+<br>
+
+<!-- Main Stats & Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzclo8dy&show_icons=true&theme=catppuccin&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzclo8dy&layout=compact&theme=catppuccin&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
 
----
-
-## 👤 Information About Me
-
-<details>
-<summary><strong>↓ About Me >w<</strong></summary>
-
 <br>
 
-Haiiii!! I'm Shivansh Upadhyay, but online you'll probably know me as
-**Itzclo9dy / Itzclo8dy** >.<
-
-🇮🇳 I'm from India, Azamgarh, and I'm currently surviving Grade 7 >.<
-
-🧪 I like experimenting with random stuff because why NOT?
-OSes, tech, online communities, random projects...
-if it exists, I'll probably mess around with it eventually >w<
-
-🎵 I'm also pretty deep into the Vocaloid community!
-
-Fun fact: Vocaloid isn't exactly the most well-known thing in India,
-so finding other people here who know about it is kinda rare >.<
-
-🏆 I'm also a topper in my grade somehow >o<
-
-💻 Future goal? CS.
-
-Basically I wanna keep messing with computers and eventually
-turn that into an actual career >w<
-
-🎮 When I'm not doing nerd stuff, I'm probably playing Project Sekai,
-COD or Roblox with my friends Mady and Hero >.<
-
-😳 I'm kinda shy IRL, but online I can be a bit more chaotic >.<
-
-I'm basically just a hobbyist who likes trying random things,
-learning stuff, breaking stuff, fixing stuff, and then doing it again >w<
-
-</details>
-
-<details>
-<summary><strong>🔗 Links >w<</strong></summary>
-
-<br>
-
-🌳 **Linktree:**  
-[https://linktr.ee/Itzclo8dy](https://linktr.ee/Itzclo8dy)
-
-</details>
-
----
-
-## 🛠️ Apps & Tools I Use
-
-### 💻 Operating Systems & Desktop
-
-![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
-
-### 🧑‍💻 Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
-![Vibe](https://img.shields.io/badge/Vibe-000000?style=for-the-badge)
-
-### 🎵 Music
-
-![FL Studio](https://img.shields.io/badge/FL%20Studio-F47B20?style=for-the-badge&logo=flstudio&logoColor=white)
-![Synthesizer V](https://img.shields.io/badge/Synthesizer%20V-FF69B4?style=for-the-badge)
-
-### 🎮 Gaming
-
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
-
-### 💬 Communication & Social
-
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)
-![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![JanitorAI](https://img.shields.io/badge/JanitorAI-000000?style=for-the-badge)
-
-### 🌐 Browsers
-
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=chromium&logoColor=white)
-
-### 🖥️ Terminals
-
-![Foot](https://img.shields.io/badge/Foot-000000?style=for-the-badge)
-![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge)
+[Back to top](#readme)
 
 ---
 
 <div align="center">
-
-### >w< Thanks for visiting!!
-
-`made with caffeine, Linux and questionable decisions`
-
+  <sub>Inspired by <a href="https://github.com/dxnnv">Danny's GitHub Profile</a></sub>
 </div>

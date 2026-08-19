@@ -1,6 +1,6 @@
 haiii!!!! :3 I AM ITZCLO8DY >.<
 <br>
-<img src="https://media.tenor.com/tHqP71fP3k4AAAAC/miku-plush.gif" width="120px" alt="Miku Plush">
+<img src="https://tenor.com/bUVdi.gif" width="120px" alt="Profile GIF">
 <br>
 This is my official GitHub profile!
 
@@ -59,7 +59,7 @@ _**(aka stuff I use)**_
 
 <br>
 
-<!-- Main Stats & Top Languages (using GitHub Stats Extended) -->
+<!-- Main Stats & Top Languages -->
 <a href="https://github-stats-extended.vercel.app">
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=Itzclo8dy&show_icons=true&theme=catppuccin&rank_icon=github&hide_border=true" alt="GitHub Stats" />
 </a>
